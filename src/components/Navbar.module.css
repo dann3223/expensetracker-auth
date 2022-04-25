@@ -1,8 +1,9 @@
 .navbar {
   width: 100%;
-  background: #effaf0;
+  background: #1f9751;
   padding: 20px 10px;
   box-sizing: border-box;
+  color: #fff;
 }
 .navbar ul {
   display: flex;
@@ -21,8 +22,22 @@
   margin-left: 16px;
 }
 .navbar a {
-  color: #333;
+  color: #fff;
   text-decoration: none;
+}
+.specialButton {
+  background: none;
+  border: 2px solid #fff;
+  padding: 6px 12px;
+  border-radius: 4px;
+  color: #fff;
+  font-weight: bold;
+  cursor: pointer;
+  font-size: 1em;
+}
+.specialButton:hover {
+  background: #fff;
+  color: #1f9751;
 }
 
 @media (max-width: 360px) {
