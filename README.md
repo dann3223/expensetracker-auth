@@ -1,14 +1,14 @@
 # My Tracker
 
-Proyecto realizado con React, Hooks, Firebase Firestore & Auth.
+Project made with React, Hooks, Firebase Firestore and Auth.
 
-## Instalación
+## Installation
 
 ```bash
 npm install
 ```
 
-## Ejecución
+## Start
 
 ```bash
 npm start
